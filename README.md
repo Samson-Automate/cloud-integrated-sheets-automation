@@ -85,8 +85,8 @@ Below is the live operational layout capture showcasing the automated tracking d
 
 If you require custom software engineering solutions, data pipelines, web scrapers, or direct cloud synchronization systems configured precisely for your corporate workflow frameworks, reach out anytime:
 
-* Email: samsonpatras34@gmail.com
-* X (Twitter): [Twitter/X Profile](https://x.com)
+* Email: samson.automates@gmail.com
+* X (Twitter): [Twitter/X Profile](https://x.com/Samson_Automate/)
 * Discord: `samson005473`
 
 Need help deploying this script or want a custom automation solution built for your specific business requirements? Let's connect and discuss your project.
