@@ -79,7 +79,7 @@ Below is the live operational layout capture showcasing the automated tracking d
 ### 2. Live Automation Server Control Logs
 Below is the live background worker execution loop showcasing flawless sub-second data pooling transactions and rapid cloud matrix data-stream write synchronizations:
 
-<img width="980" height="511" alt="bandicam 2026-05-16 21-52-53-158" src="https://github.com/user-attachments/assets/9be07a26-0438-4369-8c37-66124dc351e1" />
+<img width="980" height="511" alt="terminal_logs jpg" src="https://github.com/user-attachments/assets/fb089d78-f5aa-4925-aae1-ac3ce22d377c" />
 
 ## Commercial & Enterprise Business Value
 
