@@ -1,0 +1,6 @@
+{
+    "google_sheet_name": "Live Market Tracker",
+    "check_interval_seconds": 30,
+    "target_cryptos": ["bitcoin", "ethereum", "solana", "cardano", "ripple"],
+    "vs_currency": "usd"
+}
