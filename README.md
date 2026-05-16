@@ -69,11 +69,17 @@ Launch the loop framework operation sequence via your terminal prompt:
 python sheets_automation.py
 ```
 
-## Dashboard Live Preview
+## System Operational Previews
 
+### 1. Remote Cloud Dashboard Interface
 Below is the live operational layout capture showcasing the automated tracking data grid seamlessly organized into production clean columns inside the active remote cloud dashboard workspace:
 
-<img width="968" height="450" alt="dashboard_preview" src="dashboard_preview.png" />
+![Dashboard Live Preview](dashboard_preview.jpg)
+
+### 2. Live Automation Server Control Logs
+Below is the live background worker execution loop showcasing flawless sub-second data pooling transactions and rapid cloud matrix data-stream write synchronizations:
+
+![Terminal Execution Logs](terminal_logs.jpg)
 
 ## Commercial & Enterprise Business Value
 
