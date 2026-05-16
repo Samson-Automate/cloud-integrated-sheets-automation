@@ -17,6 +17,12 @@ A production-ready Python automation tool engineered to sync dynamic asset price
 * External Cloud Infrastructure: Google Cloud Platform (Sheets & Drive API Integrations)
 * Orchestration Worker: Python-Schedule Loop Scheduler
 
+## System Architecture Workflow
+
+Below is the conceptual architecture showing how the automated pipeline schedules tasks, processes market data, and triggers updates:
+
+<img width="1264" height="842" alt="image_5c250b9a" src="https://github.com/user-attachments/assets/635a7d08-6c36-4ebf-899a-422cebf44238" />
+
 ## Repository File Structure
 
 ```text
