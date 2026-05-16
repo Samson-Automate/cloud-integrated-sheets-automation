@@ -74,12 +74,12 @@ python sheets_automation.py
 ### 1. Remote Cloud Dashboard Interface
 Below is the live operational layout capture showcasing the automated tracking data grid seamlessly organized into production clean columns inside the active remote cloud dashboard workspace:
 
-![Dashboard Live Preview](dashboard_preview.jpg)
+<img width="1366" height="610" alt="dashboard_preview jpg" src="https://github.com/user-attachments/assets/dae9a67b-6e7c-4bdd-a53d-a55bbbe24aad" />
 
 ### 2. Live Automation Server Control Logs
 Below is the live background worker execution loop showcasing flawless sub-second data pooling transactions and rapid cloud matrix data-stream write synchronizations:
 
-![Terminal Execution Logs](terminal_logs.jpg)
+<img width="980" height="511" alt="bandicam 2026-05-16 21-52-53-158" src="https://github.com/user-attachments/assets/9be07a26-0438-4369-8c37-66124dc351e1" />
 
 ## Commercial & Enterprise Business Value
 
